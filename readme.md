@@ -48,11 +48,11 @@ npm install --save-dev @babel/core @babel/cli @babel/preset-env
 
 ## Crear un archivo babelrc con el contenido que esta entre los comentarios:
 
-<!--
+--
 
 {
     "presets": [["@babel/preset-env", {"targets": {"node": "current"}}]]
 }
 
--->
+--
 
