@@ -8,6 +8,8 @@ https://jestjs.io/es-ES/
 
 2. npm install --save-dev jest (instalacion de jest en el proyecto)
 
+   npm install --save-dev @babel/core @babel/cli @babel/preset-env (instalacion de babel)
+
 3. Crear un archivo .gitignore donde escribiras node_modules (esto hara que esa carpeta sea ignorada y no se suba a tu repositorio)
 
 4. Actualizar el archivo package.json
